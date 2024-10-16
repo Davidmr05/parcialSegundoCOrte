@@ -1,1 +1,1 @@
-# parcialSegundoCOrte
+# Parcial Segundo Corte
