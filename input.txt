@@ -1,0 +1,2 @@
+MAP(doblar, [1, 2, 3, 4])
+FILTER(esPar, (1, 2, 3, 4))
