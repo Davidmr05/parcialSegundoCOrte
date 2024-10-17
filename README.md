@@ -52,6 +52,14 @@ Finalmente, puedes ejecutar el script Python para procesar el archivo de entrada
 
 python3 calCompleja.py
 
+EN el caso de que el .py genere error tendriamos que usar un entorno virtual de python: 
+
+ python3 -m venv venv
+
+ source venv/bin/activate
+
+ pip install antlr4-python3-runtime
+
 Punto 2: 
 
 Compilación y Ejecución
